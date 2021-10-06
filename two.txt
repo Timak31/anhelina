@@ -1,1 +1,1 @@
-This is second file. lah lah lah
+This is second file. Everything should be already ok.
